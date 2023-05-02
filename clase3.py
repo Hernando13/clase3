@@ -1,9 +1,8 @@
 # funcion f para meter algo ????
-"""
+
 a = 5
 print(f"hello world {a} ")
-"""
-"""
+
 edad = input("introduce tu edad  \n >" )
 if edad. isnumeric():
     edad = int(edad)
@@ -11,7 +10,7 @@ if edad. isnumeric():
         print("mayor")
     else:
         print("menor")
-"""
+
 
 #otro ejerc
 
